@@ -1,0 +1,190 @@
+body{
+  background: rgb(230,240,221);
+background: linear-gradient(90deg, rgba(230,240,221,1) 47%, rgba(223,236,210,1) 50%);
+width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+
+}
+
+table.center {
+  margin-left:auto; 
+  margin-right:auto;
+}
+
+.bodytesti{
+  background: rgb(230,240,221);
+background: linear-gradient(90deg, rgba(230,240,221,1) 47%, rgba(223,236,210,1) 50%);
+width: 100%;
+    padding: 0px;
+    overflow-x: hidden; 
+
+}
+
+
+
+#judul
+{
+    margin:0cm;
+    font-size: 40px;
+}
+
+#judultesti{
+
+  font-family: cursive;
+  text-align: center;
+}
+
+.Header{
+  font-family: monospace;
+  font-size: 20px;
+  background: rgb(32,232,14);
+  background: linear-gradient(90deg, rgba(32,232,14,1) 0%, rgba(225,255,12,1) 52%, rgba(0,255,201,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6dc819', endColorstr='#bbff00', GradientType=1 );
+  padding-bottom: 16px;
+  border: 1px solid black;
+  
+  text-align: center;     
+  
+  }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid black;
+  background-color: #f3f3f3;
+
+  
+}
+
+#testi{
+
+  background:transparent;
+  font-size: 30pt;
+  text-align: center;
+  border: 1px transparent;
+
+}
+
+#testimoni{
+ padding: 4cm;
+}
+
+.tabletesti{
+ border: 1px solid black;
+ align:right;
+
+}
+
+li {
+  float: left ;
+  border-right: 1px solid whitesmoke;
+}
+
+li a {
+  display: block;
+  color: #666;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  font-family: cursive;
+}
+
+li a:hover:not(.active) {
+  background-color: #ddd;
+}
+
+.perintah.aqiqah
+{
+ 
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 25pt;
+text-align: center;
+border-top: 1px solid black; 
+}
+
+.perintah.qurban
+{
+ 
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 25pt;
+text-align: center; 
+}
+
+#login{
+text-align: left;
+}
+
+#dalilaqiqah{
+  margin-left: 4cm;
+  margin-right: 4cm;
+text-align: justify;
+font-size: 14pt; 
+font-family: 'Times New Roman', Times, serif;
+}
+
+#dalilaqiqah1{
+  text-align: right;
+  margin-left: 4cm;
+  margin-right: 4cm;
+  font-size: 20pt;
+}
+
+footer{
+  background: rgb(47,50,45);
+background: linear-gradient(90deg, rgba(47,50,45,1) 45%, rgba(54,56,51,1) 50%);
+     margin-top: -5cm;
+  text-align: center;
+  color: white;
+  border:1px solid black;
+}
+
+.carousel-item
+{
+text-align: center;
+margin-bottom: 0.5cm;
+}
+
+#myfooter{
+  text-align: center;
+}
+
+#MUI{
+margin-top: 2cm;
+margin-left: -4.5cm;
+margin-bottom: -1cm;
+}
+
+.social-networks{
+  margin-top: 1.8cm;
+  margin-right: -12cm;
+  margin-bottom: -2cm;
+}
+.dalil{
+  margin-bottom: -7cm;
+}
+.col-sm-2{
+  margin-left:6.5cm;
+  text-align: justify;
+  margin-top: 2.3cm;
+
+}
+.content{
+  margin-top:4cm;
+  padding-top: 10cm;
+
+}
+
+#aboutus{
+  margin-left: -6.4cm;
+  margin-right: -5.4cm;
+  
+
+}
+
+.daftarharga{
+  text-align: center;
+}
