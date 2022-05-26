@@ -5,8 +5,8 @@
 
 $host = "localhost";
 $user = "root";
-$pass = "YES";
-$database = "aqiban";
+$pass = "";
+$database = "aqiban_web";
 
 $db = mysqli_connect($host, $user, $pass, $database) or die("gagal koneksi ke database");
 ?>

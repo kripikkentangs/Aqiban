@@ -34,8 +34,8 @@
     <li><a href="Aqiban-Testimonial.php">Testimonial</a></li>
     <li><a href="Form Login.php">Login</a></li></ul>
     </ul>
-
 </div>
+
 <div class="bd-example">
     <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
@@ -79,6 +79,7 @@
   
   
   <div class="dalil">
+    <div class="container"> 
   <p class="perintah aqiqah">Perintah Aqiqah</p>
       <p id="dalilaqiqah1"> عَنْ عَمْرِو بْنِ شُعَيْبٍ عَنْ اَبِيْهِ عَنْ جَدّهِ قَالَ، قَالَ رَسُوْلُ اللهِ ص مَنْ اَحَبَّ مِنْكُمْ اَنْ يَنْسُكَ عَنْ وَلَدِهِ فَلْيَفْعَلْ عَنِ اْلغُلاَمِ شَاتَانِ مُكَافِئَتَانِ وَ عَنِ اْلجَارِيَةِ شَاةٌ
       </p>
@@ -92,6 +93,7 @@
           <p id="dalilaqiqah">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Artinya: “Dan bagi tiap-tiap umat telah Kami syariatkan penyembelihan (kurban), supaya mereka menyebut nama Allah terhadap binatang ternak yang telah direzkikan Allah kepada mereka, maka Tuhanmu ialah Tuhan Yang Maha Esa, karena itu berserah dirilah kamu kepada-Nya. Dan berilah kabar gembira kepada orang-orang yang tunduk patuh (kepada Allah). (yaitu) orang-orang yang apabila disebut nama Allah gemetarlah hati mereka, orang-orang yang sabar terhadap apa yang menimpa mereka, orang-orang yang mendirikan sembahyang dan orang-orang yang menafkahkan sebagian dari apa yang telah Kami rezkikan kepada mereka.” [QS. al-Hajj (22): 34-35]</p>
           
           </p>  
+          </div>
   </div>
   
   
