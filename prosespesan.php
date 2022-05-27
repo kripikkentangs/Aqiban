@@ -112,18 +112,18 @@ else
        VALUES ('$nama_depan', '$nama_belakang', '$paket' , '$harga' , 'Belum Lunas' , '$nomor_telepon')";
        $result = $db->query($pembayaran);
        if($simpan && $result) {
-         echo "<div align='center'>Pesanan anda berhasil,silahkan lakukan pembayaran sebesar ".$harga." ke nomor rekening BCA 492-06-09-100 A/N Vickri Fahrurozi dan Konfirmasi Pembayaran ke Whatsapp 0838-1571-8369|| <a href='Aqiban.php'>Menu Utama</a></div>";
+         echo "<div align='center'>Pesanan anda berhasil,silahkan lakukan pembayaran sebesar ".$harga." ke nomor rekening BCA 123-4567-8900 A/N Bayu Satya Saputra dan Konfirmasi Pembayaran ke Whatsapp 0812-3456-7890|| <a href='Aqiban.php'>Menu Utama</a></div>";
         
          
   
 
 
-         $to = $email ;
-         $subject = "Pesanan Aqiban";
-         $txt = "Silahkan Lakukan Pembayaran sebesar sekiansekian ke sekiansekian";
-         $headers = "From: Aqiban.com" ;
+        //  $to = $email ;
+        //  $subject = "Pesanan Aqiban";
+        //  $txt = "Silahkan Lakukan Pembayaran sebesar sekiansekian ke sekiansekian";
+        //  $headers = "From: Aqiban.com" ;
          
-         mail($to,$subject,$txt,$headers);
+        //  mail($to,$subject,$txt,$headers);
          
        
         } else {

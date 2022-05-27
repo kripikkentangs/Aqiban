@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>CETAK PRINT DATA DARI DATABASE DENGAN PHP - WWW.MALASNGODING.COM</title>
+	<title>CETAK PRINT DATA DARI DATABASE DENGAN PHP</title>
 </head>
 <body>
 	<center>

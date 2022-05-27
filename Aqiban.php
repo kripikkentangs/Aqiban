@@ -30,7 +30,7 @@
 <li><a class="active" href="Aqiban.php">Home</a></li>
 <li><a href="Aqiban-Harga.php">Harga</a></li>
     <li><a href="Form Pemesanan.php">Pesan</a></li>
-    <li><a href="Form Pemesanan.php">Pembayaran</a></li>
+    <li><a href="Form Pembayaran.php">Pembayaran</a></li>
     <li><a href="Aqiban-Testimonial.php">Testimonial</a></li>
     <li><a href="Form Login.php">Login</a></li></ul>
     </ul>
